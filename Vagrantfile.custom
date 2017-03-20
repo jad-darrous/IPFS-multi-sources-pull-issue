@@ -1,0 +1,9 @@
+# config file
+
+NB_NODES = 5
+
+FILE_SIZE = 10 # In MB
+
+EMULATE_LATENCY = false # true || false
+LINK_LATENCY = 50
+JITTER = 1

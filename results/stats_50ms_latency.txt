@@ -1,0 +1,12 @@
+--- 1
+RepoSize 	 1005017765
+TotalIn: 1.0 GB
+--- 2
+RepoSize 	 1005102683
+TotalIn: 1.3 GB
+--- 3
+RepoSize 	 1005113005
+TotalIn: 3.0 GB
+--- 4
+RepoSize 	 1005194299
+TotalIn: 4.0 GB
