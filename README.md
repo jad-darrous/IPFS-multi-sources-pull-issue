@@ -9,8 +9,6 @@ What I was excepting is that the time needed to pull the image for each node to 
 
 I ran two experiments, the first one with no network latency, while the second emulates a 50ms network latency with jitter.
 
-To replicate the experiment or to see the results, please refer to this repository https://github.com/jad-darrous/IPFS-multi-sources-pull-issue
-
 ## The experiment
 
 For the experiment, I use virtual machines (Vagrant with VirtualBox), but the same results are obtained using real physical machines also.
